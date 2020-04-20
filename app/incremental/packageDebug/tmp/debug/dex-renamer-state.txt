@@ -1,0 +1,4 @@
+#Mon Apr 20 01:47:08 CEST 2020
+base.0=/media/rattayork/Data/Work/Apps Developing/Balloc/TaskSwitchView/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
